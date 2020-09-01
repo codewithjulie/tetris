@@ -1,5 +1,5 @@
 # tetris 3.0
 
-![gameplay](https://codewithjulie.github.com/images/game.png)
+![gameplay](https://github.com/codewithjulie/images/game.png)
 
-![gameover](https://codewithjulie.github.com/images/gameover.png)
+![gameover](https://github.com/codewithjulie/images/gameover.png)
