@@ -10,7 +10,7 @@ This game was inspired when watching the 'move_rectangle' lecture from Stanford'
 * Up arrow to rotate
 * Space bar to hard drop
 
-#### Video Preview at [YouTube](https://youtu.be/ZQFei6xD3-s)
+#### Video Preview at [YouTube](https://youtu.be/ToINYTNqPI4)
 
 #### Play now at [repl.it](https://repl.it/@codewithjulie/tetris)
 
