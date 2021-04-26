@@ -14,6 +14,12 @@ This game was inspired when watching the 'move_rectangle' lecture from Stanford'
 
 #### Play now at [repl.it](https://repl.it/@codewithjulie/tetris)
 
+#### Future Improvements
+* Add pause/play feature
+* Save high score
+* Recreate using JavaScript to play on the web
+* Make two player
+
 <br>
 
 ![gameplay](https://github.com/codewithjulie/tetris/blob/master/images/game.png)
