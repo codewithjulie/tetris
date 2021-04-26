@@ -14,8 +14,7 @@ import tkinter
 import random
 import time
 import math
-# from playsound import playsound
-# playsound("tetris_theme_song.mp3")
+from playsound import playsound
 
 # Constants for canvas
 CANVAS_WIDTH = 900
@@ -42,7 +41,7 @@ SHAPES = {
 
 
 def create_game_board():
-    canvas = make_canvas(CANVAS_WIDTH, CANVAS_HEIGHT, 'Tetris 2.0')
+    canvas = make_canvas(CANVAS_WIDTH, CANVAS_HEIGHT, 'Tetris 3.0')
     draw_grid(canvas)
     return canvas
 
@@ -545,6 +544,7 @@ def main():
     score_label = create_score_label(canvas, total_score)
     level_label = create_level_label(canvas, level)
     tetromino = make_randomized_tetromino(canvas)  # Spawned above the game board
+    playsound("tetris_theme_song.mp3", block=False)
 
     while not game_over(canvas):
 
